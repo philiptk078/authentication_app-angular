@@ -1,6 +1,6 @@
-# AngularAuthenticationApp
+authentication_app-angular
 
-It's an Angular v10 Application:   
+it's an Angular v10 Application:   
 
 --> Server Side: Basic server setup, Database Creation - CloudMongoDB, API  creation and Token verification.  
 --> Client Side: Components generation, Corresponding Services, RouteGuard and HttpInterceptor Implementation.  
